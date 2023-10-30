@@ -12,10 +12,10 @@ And that's basically it! <3 I’m not really looking to collaborate on anything 
 Here's some repos that I frequently work on:
 
 <a href="https://github.com/mr-hespicable/sketchOS">
-    <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox/>
+    <img src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox/>
 </a>
 <a href="https://github.com/mr-hespicable/flipper">
-    <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox/>
+    <img src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox/>
 </a>
 
 and here are some other stats:

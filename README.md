@@ -11,17 +11,13 @@ And that's basically it! <3 I’m not really looking to collaborate on anything 
 
 Here's some repos that I frequently work on:
 
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox)](https://github.com/mr-hespicable/sketchOS)
-
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox)](https://github.com/mr-hespicable/flipper)
+<a href="https://github.com/mr-hespicable/sketchOS">
+    <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox/>
+</a>
+<a href="https://github.com/mr-hespicable/flipper">
+    <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox/>
+</a>
 
 and here are some other stats:
 
 ![mr-hespicable's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox) 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-hespicable&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>

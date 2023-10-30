@@ -11,11 +11,11 @@ And that's basically it! <3 I’m not really looking to collaborate on anything 
 
 Here's the repo I frequently work on:
 
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true)](https://github.com/mr-hespicable/sketchOS)
+[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox)](https://github.com/mr-hespicable/sketchOS)
 
 Here's a repo that I might work on from time to time:
 
-[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true)](https://github.com/mr-hespicable/flipper)
+[![repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox)](https://github.com/mr-hespicable/flipper)
 
 and here are some other stats:
 

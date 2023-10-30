@@ -11,8 +11,8 @@ And that's basically it! <3 I’m not really looking to collaborate on anything 
 
 Here's the repo i'm currently working on:
 
-[![sketchOS repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS)](https://github.com/mr-hespicable/sketchOS)
+[![sketchOS repo](https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true)](https://github.com/mr-hespicable/sketchOS)
 
 and here are some other stats:
 
-![mr-hespicable's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox)
+![mr-hespicable's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox) 

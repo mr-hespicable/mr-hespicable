@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mr-hespicable
-- 👀 I’m interested in python and javascript! I don't have much time to learn javascript though.
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on nothing. I suck at coding.
+- o/ Hi, I’m @mr-hespicable 
+- o_0 I’m interested in a bunch of languages, but I'm mostly focused on Java & Rust atm.
+- <|_| I’m currently learning Java & Rust!
+- <3 I’m not really looking to collaborate on anything atm, but if you want to dm me on discord at `websafe` and I'll answer as soon as possible!
 - 
 <!---
 mr-hespicable/mr-hespicable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

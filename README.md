@@ -9,7 +9,7 @@ If you're interested, check out the repo [here!](https://mr-hespicable/sketchOS)
 
 And that's basically it! <3 I’m not really looking to collaborate on anything atm, but if you would like chat or get in contact with me, dm me on discord (`websafe`) and I'll get back to you asap!
 
-Here's some repos that I frequently work on:
+##### Here's some repos that I frequently work on:
 
 <a href="https://github.com/mr-hespicable/sketchOS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox" />
@@ -18,7 +18,7 @@ Here's some repos that I frequently work on:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox"/>
 </a>
 
-and here are some other stats:
+##### and here are some other stats:
 
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox" />

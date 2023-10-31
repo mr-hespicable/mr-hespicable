@@ -20,7 +20,7 @@ Here's some repos that I frequently work on:
 
 and here are some other stats:
 <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-hespicable&layout=pie" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-hespicable&layout=pie&theme=gruvbox" />
 </a>
 <a>
     <img src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox" />

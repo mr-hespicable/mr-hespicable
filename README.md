@@ -21,11 +21,10 @@ And that's basically it! <3 I’m not really looking to collaborate on anything 
 
 ##### and here are some other stats:
 
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox" />
+<a href="https://github.com/mr-hespicable/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox"/>
 </a>
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-hespicable&layout=pie&theme=gruvbox" />
+<a href="https://github.com/mr-hespicable">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-hespicable&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
-
 

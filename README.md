@@ -1,22 +1,21 @@
-## Hi, I’m @mr-hespicable
+## hi, i’m @mr-hespicable
 ... or websafe on other platforms!
 
-This is my github profile. My notes for school, as well as a bunch of my coding projects are located here.
+this is my github profile. my notes for school, as well as a bunch of my coding projects are located here.
 
-In these projects, you'll find a variety of languages, such as Java, Python, TS & JS (maybe?), but mainly _Rust_.  
-I'm currently coding an operating system in Rust for my Duke of Edinburgh award's **skills** section.   
-If you're interested, check out the repo [here!](https://mr-hespicable/sketchOS)
-I start a lot of projects which don't really get off the ground, but I love to work on them in my spare time, or when I have coder's block (haha)
+in these projects, you'll find a variety of languages, such as java, python, ts & js (maybe?), but mainly _rust_.  
+i've just finished coding a barebones operating system in rust for my duke of edinburgh award's **skills** section; if you're interested, check out the repo [here!](https://mr-hespicable/sketchos)   
+i start a lot of projects which don't really get off the ground, but i love to work on them in my spare time, or when i have coder's block (haha)
 
-And that's basically it! <3 I’m not really looking to collaborate on anything atm, but if you would like chat or get in contact with me, dm me on discord (`websafe`) and I'll get back to you asap!
+and that's basically it :3 i’m not really looking to collaborate on anything atm, but if you would like chat or get in contact with me, dm me on discord (`websafe`) and i'll get back to you asap!
 
-##### Here's some repos that I frequently work on:
+##### here's some repos that i frequently work on:
 
-<a href="https://github.com/mr-hespicable/sketchOS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchOS&show_owner=true&theme=gruvbox" />
+<a href="https://github.com/mr-hespicable/sketchos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchos&show_owner=true&theme=gruvbox" />
 </a>
-<a href="https://github.com/mr-hespicable/flipper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=flipper&show_owner=true&theme=gruvbox"/>
+<a href="https://github.com/mr-hespicable/improbable">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=improbable&show_owner=true&theme=gruvbox"/>
 </a>
 
 ##### and here are some other stats:

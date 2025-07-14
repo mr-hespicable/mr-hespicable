@@ -9,16 +9,7 @@ i start a lot of projects which don't really get off the ground, but i love to w
 
 and that's basically it :3 i’m not really looking to collaborate on anything atm, but if you would like chat or get in contact with me, dm me on discord (`websafe`) and i'll get back to you asap!
 
-##### here's some repos that i frequently work on:
-
-<a href="https://github.com/mr-hespicable/sketchos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=sketchos&show_owner=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/mr-hespicable/improbable">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-hespicable&repo=improbable&show_owner=true&theme=gruvbox"/>
-</a>
-
-##### and here are some other stats:
+##### here are some other stats:
 
 <a href="https://github.com/mr-hespicable/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hespicable&theme=gruvbox"/>

@@ -3,7 +3,7 @@
 
 this is my github profile. my notes for school, as well as a bunch of my coding projects are located here.
 
-in these projects, you'll find a variety of languages, such as java, python, ts & js (maybe?), but mainly _rust_.  
+in these projects, you'll find a variety of languages, such as java, python, typescript & javascript (maybe?), but mainly _rust_.  
 i've just finished coding a barebones operating system in rust for my duke of edinburgh award's **skills** section; if you're interested, check out the repo [here!](https://mr-hespicable/sketchos)   
 i start a lot of projects which don't really get off the ground, but i love to work on them in my spare time, or when i have coder's block (haha)
 
